@@ -1,3 +1,6 @@
+# Unity-MessageBoxV2
+![image](https://github.com/15so42/Unity-MessageBoxV2/raw/V1/gif/GIF.gif)
+
 导入这个文件夹到unity中，你不需要进行任何的配置
 
 即可通过MessageBoxV2.AddMessage("内容")打印信息
