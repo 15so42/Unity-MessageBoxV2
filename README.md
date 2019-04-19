@@ -1,5 +1,5 @@
 # Unity-MessageBoxV2
-![image](https://github.com/15so42/Unity-MessageBoxV2/raw/gif/GIF.gif)
+![image](https://github.com/15so42/Unity-MessageBoxV2/blob/gif/gif/GIF.gif)
 
 导入这个文件夹到unity中，你不需要进行任何的配置
 
