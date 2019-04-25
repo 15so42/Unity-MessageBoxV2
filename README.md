@@ -5,6 +5,8 @@
 
 即可通过MessageBoxV2.AddMessage("内容")打印信息
 
+有一个重载可以控制停留时间：MessageBoxV2.AddMessage("内容"，停留时间)
+
 在Resources文件中的MessageBox预制体决定了你的打印信息的位置，你可能需要基本的预制体的知识来更改位置
 
 在messageBox上的脚本MessageTextContainer上的space是设置消息之间的垂直间隔
